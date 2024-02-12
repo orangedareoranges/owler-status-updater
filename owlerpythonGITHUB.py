@@ -1,6 +1,6 @@
 import requests
 import json
-from base64 import b64encode // Shouldn't be necessary, but keep it still.
+from base64 import b64encode
 
 print("Hey, wanna submit a status?:")
 x = input()
